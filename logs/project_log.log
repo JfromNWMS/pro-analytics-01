@@ -1,0 +1,7 @@
+2025-05-18 21:37:24.699 | INFO     | utils_logger:<module>:39 - Logging to file: logs\project_log.log
+2025-05-18 21:37:24.699 | INFO     | __main__:<module>:52 - CHARTS - Ready for work.
+2025-05-18 21:37:24.699 | INFO     | __main__:main:26 - Starting main function.
+2025-05-18 21:37:24.933 | INFO     | __main__:main:31 - Loaded penguins dataset successfully.
+2025-05-18 21:37:25.363 | INFO     | __main__:main:39 - NOTE: Close the chart window to continue and exit the script.
+2025-05-18 21:38:10.290 | INFO     | __main__:main:41 - Exiting main function.
+2025-05-18 21:38:10.291 | INFO     | __main__:<module>:54 - CHARTS - Execution complete.
